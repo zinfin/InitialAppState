@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bgardner/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/bgardner/BNR/android_books/advanced-android/book/bmGradle/solution/Animals/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-8ac9b457b26e1b547ac6e8ba87ced4fba27a32c1.jar" />
+    </item>
+    <item
+        jar="/Users/bgardner/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/bgardner/BNR/android_books/advanced-android/book/bmGradle/solution/Animals/app/build/intermediates/pre-dexed/debug/glide-3.6.1-9cc415c14c91b42a968edfbfea8a16a1c9f32e6e.jar" />
+    </item>
+    <item
+        jar="/Users/bgardner/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/bgardner/BNR/android_books/advanced-android/book/bmGradle/solution/Animals/app/build/intermediates/pre-dexed/debug/gson-2.3.1-e9578463a0ca36a5f672e494cf283b2229470633.jar" />
+    </item>
+
+</items>
